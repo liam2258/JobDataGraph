@@ -1,0 +1,915 @@
+company,title,location,javascript,html,css,python,sql,java,c#,bash,c++,php,kotlin,rust,ruby,dart,swift,golang
+Cambium Learning Group,Software Engineer,Remote,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Intuit,"Software Engineer 2, ANDROID",CA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Indeed,Software Engineer II,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer-Rolling Meadows, IL",IL,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+,Software Engineer - Remote,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,Full Stack Software Engineer,CA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+BeaconFire Solution,Entry-level Software Developer,NJ,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+eBay Inc.,Android Software Engineer,WA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+hireEZ,Software Engineer,Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,Software Engineer - Open Telemetry,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+eBay Inc.,"iOS Software Engineer, MTS 1",GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+eBay Inc.,Software Engineer 2,OR,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intel,Software Engineer - Entry Level (ATL),GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armada,Software Engineer,Remote,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SummitWorks Technologies Inc,Entry Level Java Developer,Remote,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+CPS Recruitment,Software Engineer - REMOTE - SPONSORSHIP AVAILABLE / 57542,NY,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+Emergent Software,Software Quality Assurance (QA) Engineer - 100% Remote,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Varasset,Entry Level Software Developer,Remote,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Trane Technologies,Software Test Engineer,MN,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,MI,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+"Sorenson Communications, LLC","Software Engineer (API, Node.js, C#)",Remote,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Catalyte,Software Developer Apprentice,GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Pok�mon Company International,Sr. Software Development Engineer,WA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Arcules,Senior Software Engineer - Backend (6-12 Month Contract) (Remote),WV,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+Dow Jones,Software Engineer,NY,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+Human Interest,"Software Engineer, Backend",CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Intuit,Backend Software Engineer 2,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote - Eligible)",NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Principal Software Engineer-Remote Eligible,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,"Software Engineer 1 (Full Stack) - Product Technology - Remote, Seattle, SF or Austin",WA,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Liberty Mutual Insurance,Software Engineer - Remote,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,"Software Engineer, Backend (MTS 2)",GA,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Property Matrix,Entry Level Software Developer,CA,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+Reciprocity,"Software Engineer, Backend - Remote",TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mutual of Omaha,Backend Engineer (AWS / TypeScript / Node)-Remote,Remote,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Pok�mon Company International,Sr. Software Development Engineer,WA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Stanford University,Software Developer 1,CA,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Cosairus LLC,Software Development QA Tester,GA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BNL Consulting,"Sr. Angular Developer (Remote, 3-month Contract)",Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zillow,Software Test Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Zillow,Backend Software Engineer,Remote,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+The Pok�mon Company International,Software Development Engineer (ElasticPath),WA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Zillow,"Software Development Engineer, BI Platform Team",Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+The Pok�mon Company International,"Software Development Engineer in Test (SDET) [Multiple Openings: Level 2, 3 & Senior] (Hybrid)",WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Meta,"Software Engineer, Language",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Palantir Technologies,Software Engineer,NY,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Meta,Android Software Engineer,NY,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Engtal,Software Engineer Backend,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Apple,Software Quality Assurance Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
+Liberty Mutual Insurance,Principal Software Engineer - Remote,Remote,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Back End (Remote Eligible)",NY,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote - Eligible)",DE,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer I - Marketplace - Enterprise Team,NY,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Senior Software Engineer; Backend; Remote Eligible,DE,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Indeed,Backend Software Engineer - Resume Search - Enterprise Team,WA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Principal Software Engineer-Remote Eligible,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Lead Back End Software Engineer (Remote-Eligible),DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Liberty Mutual Insurance,Software Engineer - Remote,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,iOS Software Engineer,WA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+eBay Inc.,Full Stack Software Engineer,CA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,Senior Software Engineer - Backend,GA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,Senior Java Backend Software Engineer,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Reaktor,Remote Senior Full Stack Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Engtal,Senior Software Engineer - cloud,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mutual of Omaha,Backend Engineer (AWS / TypeScript / Node)-Remote,Remote,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Property Matrix,Entry Level Software Developer,CA,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+Engtal,Software Engineer � Backend,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+The Pok�mon Company International,Sr. Software Development Engineer,WA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cosairus LLC,Software Development QA Tester,GA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cook Systems,Software Development Engineer (100% remote),Remote,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+The Pok�mon Company International,"Software Development Engineer in Test (SDET) [Multiple Openings: Level 2, 3 & Senior] (Hybrid)",WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meta,Android Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+BNL Consulting,"Sr. Angular Developer (Remote, 3-month Contract)",Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meta,Software Engineer - Automation,CA,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0
+Oculus,RL Research Software Engineer - Full Stack,WA,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Capital One,"Software Engineer, Back End, Cloud Productivity (Remote-Eligible)",NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote Eligible)",DE,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Manager, Software Engineer, Back End (Remote Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,"Software Engineer 1 (Full Stack) - Product Technology - Remote, Seattle, SF or Austin",CA,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Capital One,Lead Back End Software Engineer (Remote-Eligible),NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+,"Senior Software Engineer, Back End (Remote-Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Indeed,Software Engineer I - Marketplace - Enterprise Team,NY,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+Indeed,Backend Software Engineer - Resume Search - Enterprise Team,WA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Quality Assurance Automation Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Lead Back-End Engineer,Remote,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Liberty Mutual Insurance,Software Engineer - Remote,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Reaktor,Remote Senior Full Stack Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mutual of Omaha,Backend Engineer (AWS / TypeScript / Node)-Remote,Remote,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Engtal,Senior Software Engineer - cloud,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+The Pok�mon Company International,"Software Development Engineer in Test (SDET) [Multiple Openings: Level 2, 3 & Senior] (Hybrid)",WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cosairus LLC,Software Development QA Tester,GA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Oculus,RL Research Software Engineer - Full Stack,WA,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Uber,Android Engineer - Marketplace Pricing & Incentives,CA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Cook Systems,Software Development Engineer (100% remote),Remote,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Meta,"Software Engineer, Language",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Zillow,Backend Software Engineer,WA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Zillow,Full Stack Software Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Genesis10,Entry Level Software Developer *No Experience Required* - Dev10 - NY,NY,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+TriSearch,Java Software Engineer (REMOTE),Remote,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+EBSCO Information Services,SOFTWARE ENGINEER I- JAVA (remote),,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Tegrit,Software Developer (Remote Available),Remote,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote Eligible)",NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Back End, Cloud Productivity (Remote-Eligible)",NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Manager, Software Engineer, Back End (Remote Eligible)",NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Senior Software Engineer, Back End (Remote Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,"Software Engineer 1 (Full Stack) - Product Technology - Remote, Seattle, SF or Austin",WA,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Indeed,Software Engineer I - Marketplace - Enterprise Team,NY,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+Capital One,Lead Back End Software Engineer (Remote-Eligible),NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Principal Software Engineer-Remote Eligible,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Backend Software Engineer - Resume Search - Enterprise Team,WA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Underdog.io,Backend Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Indeed,Software Engineer II,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Liberty Mutual Insurance,Software Engineer - Remote,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Lead Back-End Engineer,Remote,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,"Software Engineer, Backend (MTS 2)",GA,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Disney Media & Entertainment Distribution,Lead Software Engineer,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,Senior Java Backend Software Engineer,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+USEngineering Solutions Corp.,Java Developer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Engtal,Senior Software Engineer - cloud,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mutual of Omaha,Backend Engineer (AWS / TypeScript / Node)-Remote,Remote,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Engtal,Software Engineer � Backend,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+The Pok�mon Company International,"Software Development Engineer in Test (SDET) [Multiple Openings: Level 2, 3 & Senior] (Hybrid)",WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cosairus LLC,Software Development QA Tester,GA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Meta,Android Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Cook Systems,Software Development Engineer (100% remote),Remote,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Oculus,RL Research Software Engineer - Full Stack,WA,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Meta,"Software Engineer, Language",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote Eligible)",VA,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,"Software Engineer 1 (Full Stack) - Product Technology - Remote, Seattle, SF or Austin",NY,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Back End (Remote Eligible)",NY,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Software Engineer-Manager (Remote Eligible),DE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capital One,"Manager, Software Engineer, Back End (Remote Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,,DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Platform Engineer (Remote - Eligible),VA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II - Job Seeker,CA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Indeed,Software Engineer I - Marketplace - Enterprise Team,NY,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+Indeed,Backend Software Engineer - Resume Search - Enterprise Team,WA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Principal Software Engineer-Remote Eligible,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Lead Back End Software Engineer (Remote-Eligible),DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Underdog.io,Backend Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Indeed,Quality Assurance Automation Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Lead Back-End Engineer,Remote,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+eBay Inc.,"Software Engineer, Backend (MTS 2)",GA,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Validity,Full Stack Software Engineer,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+eBay Inc.,Senior Java Backend Software Engineer,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Reaktor,Remote Senior Full Stack Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USEngineering Solutions Corp.,Java Developer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mutual of Omaha,Backend Engineer (AWS / TypeScript / Node)-Remote,Remote,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Engtal,Software Engineer � Backend,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Engtal,Senior Software Engineer - cloud,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+The Pok�mon Company International,"Software Development Engineer in Test (SDET) [Multiple Openings: Level 2, 3 & Senior] (Hybrid)",WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cosairus LLC,Software Development QA Tester,GA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BNL Consulting,"Sr. Angular Developer (Remote, 3-month Contract)",Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote Eligible)",DE,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Cambium Learning Group,Software Engineer,Remote,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Capital One,"Senior Software Engineer, Back End (Remote-Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Platform Engineer (Remote-Eligible),VA,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer I - Marketplace - Enterprise Team,NY,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,,DE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capital One,"Manager, Software Engineer, Back End (Remote Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Backend Software Engineer - Resume Search - Enterprise Team,WA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer-Rolling Meadows, IL",IL,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+Capital One,Lead Back End Software Engineer (Remote-Eligible),DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Capital One,Principal Software Engineer-Remote Eligible,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Underdog.io,Backend Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Indeed,Quality Assurance Automation Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Lead Back-End Engineer,Remote,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+eBay Inc.,"Software Engineer, Backend (MTS 2)",GA,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+eBay Inc.,"iOS Software Engineer, MTS 1",GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+eBay Inc.,Android Software Engineer,WA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Validity,Full Stack Software Engineer,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intel,Software Engineer - Entry Level (ATL),GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SummitWorks Technologies Inc,Entry Level Java Developer,Remote,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+CPS Recruitment,Software Engineer - REMOTE - SPONSORSHIP AVAILABLE / 57542,NY,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+Mutual of Omaha,Backend Engineer (AWS / TypeScript / Node)-Remote,Remote,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BeaconFire Solution,Entry-level Software Developer,NJ,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Engtal,Senior Software Engineer - cloud,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capital One,"Software Engineer, Full Stack (Remote-Eligible)",DE,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,"Senior Software Engineer, Back End (Remote-Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Cambium Learning Group,Software Engineer,Remote,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Capital One,Principal Software Engineer-Remote Eligible,VA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer I - Marketplace - Enterprise Team,NY,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,"Software Engineer 1 (Full Stack) - Product Technology - Remote, Seattle, SF or Austin",WA,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Capital One,"Manager, Software Engineer, Back End (Remote Eligible)",DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Software Engineer-Manager (Remote Eligible),DE,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+Indeed,Backend Software Engineer - Resume Search - Enterprise Team,WA,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer-Rolling Meadows, IL",IL,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+Capital One,Platform Engineer (Remote-Eligible),VA,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Sr. Cloud Software Engineer (Remote-Eligible),NY,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Capital One,Lead Back End Software Engineer (Remote-Eligible),DE,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Underdog.io,Backend Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Indeed,Quality Assurance Automation Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Lead Back-End Engineer,Remote,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+eBay Inc.,"Software Engineer, Backend (MTS 2)",GA,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+eBay Inc.,"iOS Software Engineer, MTS 1",GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+eBay Inc.,Android Software Engineer,WA,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Validity,Full Stack Software Engineer,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intel,Software Engineer - Entry Level (ATL),GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CPS Recruitment,Software Engineer - REMOTE - SPONSORSHIP AVAILABLE / 57542,NY,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+BeaconFire Solution,Entry-level Software Developer,NJ,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+SummitWorks Technologies Inc,Entry Level Java Developer,Remote,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+Engtal,Senior Software Engineer - cloud,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emergent Software,Software Quality Assurance (QA) Engineer - 100% Remote,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Lowes Pro Supply,Software Engineer,Remote,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+"Maetz Consulting, LLC",Software Engineer,IA,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Hospice Tools,Software Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Talent Experts LLC,Software Engineer 5,CA,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Zillow,Backend Software Engineer,Remote,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Underdog.io,Senior Software Engineer,Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Underdog.io,Backend Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Uber,Software Engineer - Michelangelo ML Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Gamma Scientific Inc,Software Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II - Interview Management Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Zillow,Senior Back End Software Development Engineer,Remote,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+StandOut,Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+tastyworks,Software Engineer,IL,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+Human Interest,"Software Engineer, Backend",CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Allstate,Software Engineer- Remote/ Home Based Worker,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"MedQIA, LLC.",Software Engineer (Full Stack),Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Wolfjaw Studios,Associate/Mid Software Engineer - Backend,Remote,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+hireEZ,Software Engineer,Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"Tek Intelligence, Inc.",Senior Java Software Engineer,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Horizontal Talent,Software Engineer,MN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UnitedHealth Group,"Associate Software Engineer - Herndon, VA",VA,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Avionte Software,Software Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Tovala,Senior Backend Software Engineer,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Zillow,Software Test Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Jogan Inc.,Software Engineer,CO,1,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+Torc Robotics,Software Development Engineer for Test,VA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Talent Experts LLC,Software Engineer 5,CA,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Gamma Scientific Inc,Software Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Underdog.io,Backend Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+WELLS FARGO BANK,Senior Software Engineer,TX,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+WELLS FARGO BANK,Software Engineer,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HTS,Software Engineer,MA,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collins Aerospace,Software Engineer II - Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Liberty Mutual Insurance,Senior Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Creative Financial Staffing,Software Engineer (Remote),MI,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reaktor,Remote Senior Full Stack Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Zillow,Software Test Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Lowes Pro Supply,Software Engineer,Remote,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+"Maetz Consulting, LLC",Software Engineer,IA,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Hospice Tools,Software Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Talent Experts LLC,Software Engineer 5,CA,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Zillow,Backend Software Engineer,Remote,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Underdog.io,Senior Software Engineer,Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Gamma Scientific Inc,Software Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer - Michelangelo ML Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+StandOut,Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Zillow,Senior Back End Software Development Engineer,Remote,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Indeed,Software Engineer II - Interview Management Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+"MedQIA, LLC.",Software Engineer (Full Stack),Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+tastyworks,Software Engineer,IL,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+Avant,Principal Software Engineer,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+hireEZ,Software Engineer,Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"Tek Intelligence, Inc.",Senior Java Software Engineer,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Allstate,Software Engineer- Remote/ Home Based Worker,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Human Interest,"Software Engineer, Backend",CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tovala,Senior Backend Software Engineer,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Avionte Software,Software Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Wolfjaw Studios,Associate/Mid Software Engineer - Backend,Remote,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Jogan Inc.,Software Engineer,CO,1,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+Healthtrio,Software Engineer,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Curtiss-Wright,Software Engineer,OR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Horizontal Talent,Software Engineer,MN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gamma Scientific Inc,Software Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Indeed,Software Engineer II - Job Seeker,CA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+WELLS FARGO BANK,Senior Software Engineer,TX,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+WELLS FARGO BANK,Software Engineer,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Collins Aerospace,Software Engineer II - Platform Software (Remote),FL,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Collins Aerospace,Principal Software Engineer - Common Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Uber,Staff Software Engineer - Configuration Platform,CA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Reaktor,Remote Senior Full Stack Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zillow,Senior Back End Software Development Engineer,Remote,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Zillow,"Senior Software Development Engineer, Platform Engineering",Remote,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+"The Travelers Companies, Inc.",Senior Software Engineer (Genesys),CT,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+The Walt Disney Company (Corporate),Staff Software Engineer,FL,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Uber,Staff Machine Learning Engineer - Uber AI,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+"Bio-Reference Laboratories, Inc.",Senior Software Engineer,NJ,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+Torc Robotics,"Autonomy Software Engineer, Mapping",TX,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Torc Robotics,Software Development Engineer for Test,VA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Dealerware,Backend Engineer,TX,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Intuit,Staff Full Stack Software Engineer,CA,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Fannie Mae,Senior Software Engineer (Java/AWS),VA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+General Motors,Infotainment Software Engineer - SDV,MI,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Indeed,Software Engineer III - Job Seeker,CA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Lockheed Martin,Computer Vision Staff Software Engineer,CO,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Jogan Inc.,Software Engineer,CO,1,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Audible,Senior Software Developer Engineer,MA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Audible,Senior Fullstack Software Engineer,NJ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scismic,Senior Software Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+Collins Aerospace,Principal Software Engineer - Common Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+GE Healthcare,JavaScript Digital Software Engineer,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"IntelliSurvey, Inc.",Back-End Software Engineer,Remote,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Transatlantic Reinsurance Co.,Machine Learning Engineer,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Torc Robotics,"Senior Autonomy Software Engineer, Mapping",VA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Torc Robotics,"Autonomy Software Engineer, Mapping",TX,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Torc Robotics,Software Development Engineer for Test,VA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Intuit,Staff Backend Software Engineer,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+General Motors,Infotainment Software Engineer - SDV,MI,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Indeed,Software Engineer II,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Prodapt North America,"Senior Software Engineer (Python, C++)",WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Audible,Senior Fullstack Software Engineer,NJ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Audible,Senior Software Developer Engineer,MA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Lockheed Martin,Computer Vision Staff Software Engineer,CO,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+GE Healthcare,JavaScript Digital Software Engineer,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dynamic Graphics, Inc.",Software Developer C++,Remote,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+Liberty Mutual Insurance,Senior Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Collins Aerospace,Principal Software Engineer - Common Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Collins Aerospace,Software Engineer II - Platform Software (Remote),FL,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+The Walt Disney Company (Corporate),Staff Software Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Full Stack JavaScript Developer,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yoh, A Day & Zimmermann Company",Python Developer,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Torc Robotics,"Autonomy Software Engineer, Mapping",TX,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Software Engineer - SDV,MI,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Indeed,Software Engineer II,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Prodapt North America,"Senior Software Engineer (Python, C++)",WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Audible,Senior Fullstack Software Engineer,NJ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Lockheed Martin,Computer Vision Staff Software Engineer,CO,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Audible,Senior Software Developer Engineer,MA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+GE Healthcare,JavaScript Digital Software Engineer,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Software Engineer,CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liberty Mutual Insurance,Senior Software Engineer,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Principal Software Engineer,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Collins Aerospace,Principal Software Engineer - Common Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+The Walt Disney Company (Corporate),Staff Software Engineer,WA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Venturi Group,Full Stack JavaScript Developer,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,MN,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Meta,Software Engineer - Gameplay,NY,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Engtal,Software Engineer � Backend,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Uber,Staff Software Engineer,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Torc Robotics,"Autonomy Software Engineer, Mapping",TX,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Torc Robotics,Software Development Engineer for Test,VA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Software Engineer - SDV,MI,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+sapphire,Fullstack Staff Software Engineer,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Prodapt North America,"Senior Software Engineer (Python, C++)",WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Jogan Inc.,Software Engineer,CO,1,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+Audible,Senior Software Developer Engineer - Fullstack,NJ,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+OBMedia,Senior Software Engineer,TX,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+GE Healthcare,JavaScript Digital Software Engineer,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lockheed Martin,Computer Vision Staff Software Engineer,CO,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+"The Travelers Companies, Inc.",Senior Software Engineer (Genesys),CT,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Collins Aerospace,Principal Software Engineer - Common Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Emerson,Software Engineer (Associate),PA,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,MN,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Allstate,Software Engineer- Remote/ Home Based Worker,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,Staff Software Engineer,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Hire The Winners,Machine Learning Engineer - LWHVA,VA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Creative Circle,Web Application Developer,CA,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+ProSearch,C# Developer,Remote,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Torc Robotics,"Autonomy Software Engineer, Mapping",TX,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Software Engineer - SDV,MI,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Prodapt North America,"Senior Software Engineer (Python, C++)",WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"SHOTOVER Systems, Inc.",Full Stack Web Developer,CO,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+GE Healthcare,JavaScript Digital Software Engineer,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Collins Aerospace,Principal Software Engineer - Common Platform Software (Remote),IA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Leidos,C++ / C# Software Engineer,FL,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Creative Circle,Web Application Developer,CA,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+ProSearch,C# Developer,Remote,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Allstate,Software Engineer- Remote/ Home Based Worker,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Mitutoyo Research & Development America, Inc.",C# / .NET Software Engineer,CA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+recruitAbility,Software Engineer- C/C++,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Software Engineer - C++/Python,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Wolfjaw Studios,Associate/Mid Software Engineer - Backend,Remote,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,NY,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+"Collinwood Technology Partners, LLC",Senior Python Engineer,NY,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Torc Robotics,"Autonomy Software Engineer, Mapping",TX,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Software Engineer - SDV,MI,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+TASC Technical Services LLC,Software Development Engineer,FL,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+sapphire,Fullstack Staff Software Engineer,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Prodapt North America,"Senior Software Engineer (Python, C++)",WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"SHOTOVER Systems, Inc.",Full Stack Web Developer,CO,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+National Security Agency,Hardware/Software Design Engineer,MD,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GE Healthcare,JavaScript Digital Software Engineer,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Block Engineering,Python Software Developer for Scientific Instruments (Hybrid),MA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Associate Software Engineer (AWS full stack engineer),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fluxergy Inc,Software Engineer - Full Stack,CA,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1
+Lockheed Martin,Computer Vision Staff Software Engineer,CO,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Software Engineer (MuleSoft),CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Phoenix Staff Inc,Software Engineer III,AZ,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Walt Disney Animation Studios,Software Engineer - Environments & Effects,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Zillow,"Senior Software Development Engineer, Platform Engineering",CA,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leidos,C++ / C# Software Engineer,FL,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Creative Financial Staffing,Software Developer,WI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frontier Communications,Front-End Software Engineer - Network Automation,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Intuit,"Software Engineer 2, IOS",CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Intuit,"Software Engineer 2, ANDROID",CA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Indeed,Software Engineer II,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Liberty Mutual Insurance,Software Engineer - Remote,Remote,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CNSI,Senior Software Engineer-JAVA - All remote work,Remote,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Pathways Program- Rolling Meadows, IL",IL,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+Emergent Software,Software Quality Assurance (QA) Engineer - 100% Remote,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+BeaconFire Solution,Entry-level Software Developer,NJ,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+Zillow,Software Test Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Intel,Software Engineer - Entry Level (ATL),GA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+SummitWorks Technologies Inc,Entry Level Java Developer,Remote,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Arcules,Senior Software Engineer - Backend (6-12 Month Contract) (Remote),WV,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+hireEZ,Software Engineer,Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"Sorenson Communications, LLC",Software Engineer (React Native),Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+RealDefense,Jr. Software Engineer,CA,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+"Sorenson Communications, LLC","Software Engineer (API, Node.js, C#)",Remote,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Vyne Dental,DevOps Engineer,Remote,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+Lowes Pro Supply,Software Engineer,Remote,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+"Maetz Consulting, LLC",Software Engineer,IA,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Hospice Tools,Software Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Zillow,Backend Software Engineer,Remote,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer - Michelangelo ML Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"MedQIA, LLC.",Software Engineer (Full Stack),Remote,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"O'Neil Global Advisors, Inc.",Software Engineer II,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Allstate,Software Engineer- Remote/ Home Based Worker,Remote,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Zillow,Senior Back End Software Development Engineer,Remote,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Zillow,Software Test Engineer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Engtal,Software Engineer Backend,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Air Products,100% Software Engineer,Remote,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Belcan,Software Dev Engineer I,WA,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MATRIX Resources,Sr. Back End .NET Software Engineer - REMOTE,IL,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Latitude, Inc.",Software Engineer (Clearable US Citizenship Required),Remote,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Savvy,Software Engineer,NY,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+A.D. Susman & Associates Inc.,Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Software Developer - Entry/Junior (C/C++),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+VIA Technical,Software Quality Assurance Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Avispa Technology,Software Engineer (H),CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+The Franklin Company,Industrial Software Engineer,CT,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+The Mom Project,Senior C#/.NET Software Engineer (100% Remote),Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+The Mom Project,Software Engineer (100% Remote),Remote,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+Amazon,Software Development Engineer,MI,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Roc Search,Software Engineer,Remote,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zillow,Backend Software Engineer,WA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Quality Assurance Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,Machine Learning Software Engineer,WA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Tesla,"Machine Learning Performance Software Engineer, Autopilot AI (Dojo)",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,Software Quality Engineer - Media,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,AR/VR Pipeline Engineer,WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Cellular Platform Software Engineer- Memory,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Software Engineer, Secure Networking (US, Canada & International)",WA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zillow,"Senior Software Development Engineer, Platform Engineering",Remote,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+"Ursus, Inc.",Developer - C++/C#/HTML,WA,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Algorithm Developer - C++,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+The Mom Project,"Full Stack Engineer (100% Remote, PST Timezone)",Remote,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+The Mom Project,Software Engineer (100% Remote),Remote,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+The Mom Project,Senior C#/.NET Software Engineer (100% Remote),Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Audible,Senior Software Developer Engineer,MA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ATRILOGY,Virtual Reality Developer,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Cellular Software Performance Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitutoyo Research & Development America, Inc.",C# / .NET Software Engineer,CA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Apple,Software Developer (C/C++),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer - Michelangelo ML Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Cellular Platform Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Meta,"Software Engineer, Computer Vision",NY,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Meta,"Software Engineer, Systems ML",Remote,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Software Development, Cellular",CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Quality Assurance Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
+Tesla,"Machine Learning Performance Software Engineer, Autopilot AI (Dojo)",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Developer - Computer Vision System Integration,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,"Software Engineer, Secure Networking (US, Canada & International)",WA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Apple,AR/VR Pipeline Software Engineer,WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,Core Audio Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Firmware Engineer,CA,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+Apple,"Sr. Software Engineer (backend, Java, REST API) - Universal Media",CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Ursus, Inc.",Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Software Engineer,CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mitutoyo Research & Development America, Inc.",C# / .NET Software Engineer,CA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Core Audio Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer - Michelangelo ML Platform,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Software Developer (C/C++),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Cellular Software Performance Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Firmware Engineer,CA,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Sr. Software Engineer (backend, Java, REST API) - Universal Media",CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,"Software Development, Cellular",CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Cellular Platform Software Engineer- Memory,CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Ursus, Inc.",Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,Software Quality Assurance Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
+Apple,"Software Engineer, Secure Networking (US, Canada & International)",WA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Developer - C++/C#/HTML,WA,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Apple,AR/VR Pipeline Software Engineer,WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Algorithm Developer - C++,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mitutoyo Research & Development America, Inc.",C# / .NET Software Engineer,CA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,MN,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Cellular Software Performance Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Firmware Engineer,CA,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Developer - Computer Vision System Integration,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,Core Audio Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Sr. Software Engineer (backend, Java, REST API) - Universal Media",CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,Software Quality Assurance Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,Cellular Platform Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Software Engineer, Secure Networking (US, Canada & International)",WA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Apple,"Media Services, C++ Engineer",CA,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,"Software Development, Cellular",CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Media Tools & Screening Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,Cloud Software Engineer,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Apple,SW EPM - AR/VR Frameworks - Technology Development Group,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,AR/VR Pipeline Software Engineer,WA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Software Engineer,CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,"Software Engineer, Network Monitoring & Remediation",CA,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Software Developer - Computer Vision System Integration,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Media Tools & Screening Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Uber,Machine Learning Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,"Sr. Software Engineer (backend, Java, REST API) - Universal Media",CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,Core Audio Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Toyon Research Corporation,Software Engineer (Ref #2207-C),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,SW EPM - AR/VR Frameworks - Technology Development Group,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Cellular Software Performance Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Firmware Engineer,CA,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+Apple,Software QA Engineer. Apple Media Products.,CA,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Cellular Platform Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Ursus, Inc.",Developer - C++/C#/HTML,WA,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Apple,"Software Engineer, Secure Networking (US, Canada & International)",WA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Apple,"Software Development, Cellular",CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"The Travelers Companies, Inc.",Software Engineer,CT,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,SW EPM - Embedded Software - Technology Development Group,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Software Developer - Computer Vision System Integration,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toyon Research Corporation,Software Engineer (Ref #2207-C),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Media Tools & Screening Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tesla,"Machine Learning Performance Software Engineer, Autopilot AI (Dojo)",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,SW EPM - AR/VR Frameworks - Technology Development Group,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Cellular Software Performance Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,"Sr. Software Engineer (backend, Java, REST API) - Universal Media",CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,Core Audio Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,"Software Engineer, Secure Networking (US, Canada & International)",WA,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Mom Project,Python Hardware Engineer - 100% Remote,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+The Mom Project,"Full Stack Engineer (100% Remote, PST Timezone)",Remote,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Envision,Jr. Software Developer,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insight Global,Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Aquent,Jr. Developer,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Goodkind Group-Post HERE,C# .Net Developer,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+General Motors,Infotainment Platform Software Engineer- SDV,CA,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+Northrop Grumman,"2023 Associate Software Engineer- Buffalo, NY",NY,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canopy Servicing,Backend Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+,Software Engineer (Associate),PA,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Meta,"Software Engineer, Systems ML",Remote,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+recruitAbility,Software Engineer- C/C++,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Toyon Research Corporation,Software Engineer (Ref #2207-C),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Emergent Software,Software Quality Assurance (QA) Engineer - 100% Remote,Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Apple,SW EPM - Embedded Software - Technology Development Group,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Embedded Controls Software Engineer - Multiple Levels,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Machine Learning Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,SW EPM - AR/VR Frameworks - Technology Development Group,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Cellular Software Performance Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,"Software Integrity Engineer - Apple Cloud Services, Education",TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,"Sr. Software Engineer (backend, Java, REST API) - Universal Media",CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Mom Project,Python Hardware Engineer - 100% Remote,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Lowes Pro Supply,Software Engineer,Remote,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,WA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Resilio Inc.,C++ Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Maetz Consulting, LLC",Software Engineer,IA,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Uber,Software Engineer - Michelangelo ML Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Engtal,Software Engineer Backend,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Air Products,100% Software Engineer,Remote,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+Belcan,Software Dev Engineer I,WA,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Latitude, Inc.",Software Engineer (Clearable US Citizenship Required),Remote,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Ursus, Inc.",Software Developer - Entry/Junior (C/C++),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+MATRIX Resources,Sr. Back End .NET Software Engineer - REMOTE,IL,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+A.D. Susman & Associates Inc.,Software Engineer,Remote,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+VIA Technical,Software Quality Assurance Engineer,Remote,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Mom Project,Software Engineer (100% Remote),Remote,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+The Mom Project,Senior C#/.NET Software Engineer (100% Remote),Remote,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+The Mom Project,"Full Stack Engineer (100% Remote, PST Timezone)",Remote,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Roc Search,Software Engineer,Remote,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Brooksource,Software Engineer,MI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Avispa Technology,Software Engineer (H),CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Online Technical Services,Mathematica Software Engineer,CA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+United BioSource Corporation.,Software Development Engineer,Remote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vibrant Emotional Health,Software Engineer II,NY,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+PlayStation Global,Innovation Junior Software Engineer,CA,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0
+Microsoft,Software Engineer I/II,WA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+DSMH LLC,Software Engineer,Remote,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+First Resonance,Backend Software Engineer,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Turo,Staff Software Engineer (Backend),CA,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+Listella,Front End Software Engineer,Remote,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer II,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Uber,Backend Software Engineer - Marketplace Pricing & Incentives,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Stanford University,Software Developer 1,CA,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,Staff Software Engineer - Configuration Platform,CA,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+Aquent,Jr. Developer,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eNGINE,Jr. HTML Analyst,PA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microsoft,Software Engineer I/II,WA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Hewlett Packard Enterprise,Early Career Networking Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+REI,Software Engineer (Back End),WA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+PlayStation Global,Innovation Junior Software Engineer,CA,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0
+Microsoft,Software for Hardware Software Engineer: Full Time Opportunities for University Graduates,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Motors,Entry-Level Software Engineering Rotational Program - Remote,Remote,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Hewlett Packard Enterprise,Machine learning engineer,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Discord,"Software Engineer, Data Products",CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+National Football League,"Software Engineer, Data",CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Microsoft,Software Engineer - Front End,WA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Nike,Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,2023 University Graduate - Software Development Engineer 1,CA,1,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0
+"Amazon Web Services, Inc.",Software Development Engineer II,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Amazon Web Services, Inc.",Software Development Engineer I,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Disney Media & Entertainment Distribution,Software Engineer (Full Stack),,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Amazon.com Services LLC,Jr. Software Dev Engineer,MI,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Amex,Engineer - Software Development,FL,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Western Digital,"New College Grad Engineer, Software Engineering",MN,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon,Software Development Engineer,CA,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Stanford University,Software Developer 1,CA,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Meta,"Software Engineer, Computer Vision",CA,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uber,Software Engineer II - Backend for AI Platform,CA,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,Software Quality Assurance Engineer,CA,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,Software Quality Engineer - Media,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Media Tools & Screening Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"Ursus, Inc.",Developer - C++/C#/HTML,WA,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,WA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Software Developer - Entry/Junior (C/C++),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aquent,Jr. Developer,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eNGINE,Jr. HTML Analyst,PA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insight Global,Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Microsoft,Software Engineer I/II,WA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+REI,Software Engineer (Back End),WA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+General Motors,Entry-Level Software Engineering Rotational Program - Remote,Remote,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Microsoft,Software for Hardware Software Engineer: Full Time Opportunities for University Graduates,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PlayStation Global,Innovation Junior Software Engineer,CA,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0
+Nintendo of America Inc.,Software Engineer I (NST),WA,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+Western Digital,"New College Grad Engineer, Software Engineering",MN,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon.com Services LLC,Jr. Software Dev Engineer,MI,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hewlett Packard Enterprise,Early Career Networking Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adobe,2023 University Graduate - Software Development Engineer 1,CA,1,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0
+LOCKHEED MARTIN CORPORATION,"Associate Engineer, Software/Computer Engineering",CT,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stanford University,Software Developer 1,CA,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,"Software Engineer, Network Monitoring & Remediation",CA,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Ursus, Inc.",Software Developer - Entry/Junior (C/C++),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,AMP Videos- Software Engineer,CA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Apple,Full Stack Software Development Engineer (Early Career),TX,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Toyon Research Corporation,Software Engineer (Ref #2207-C),CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,IS&T Early Career Development Program,TX,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+The Mom Project,Python Hardware Engineer - 100% Remote,Remote,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Aquent,Jr. Developer,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eNGINE,Jr. HTML Analyst,PA,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insight Global,Python Engineer,CA,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+United BioSource Corporation.,Software Development Engineer,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Motors,Entry-Level Software Engineering Rotational Program - Remote,Remote,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+Western Digital,"New College Grad Engineer, Software Engineering",MN,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nintendo of America Inc.,Software Engineer I (NST),WA,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+Hewlett Packard Enterprise,Early Career Networking Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microsoft,Software for Hardware Software Engineer: Full Time Opportunities for University Graduates,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+REI,Software Engineer (Back End),WA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Microsoft,Software Engineer I/II,WA,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+LOCKHEED MARTIN CORPORATION,"Associate Engineer, Software/Computer Engineering",CT,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+PlayStation Global,Innovation Junior Software Engineer,CA,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0
+Adobe,2023 University Graduate - Software Development Engineer 1,CA,1,0,0,1,0,1,1,0,1,1,0,0,1,0,0,0
+IPG Health,Junior Developer,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amazon.com Services LLC,Jr. Software Dev Engineer,MI,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Nike,Software Engineer,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+H&R Block,Assoc Software Engineer-S,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stanford University,Software Developer 1,CA,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber,"Software Engineer, Network Monitoring & Remediation",CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,AR/VR Graphics/Multimedia Processing Engineer,TX,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Apple,Software Engineer (Early Career),TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Apple,Wireless Bluetooth Software Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Apple,Home Protocol Engineer,CA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
